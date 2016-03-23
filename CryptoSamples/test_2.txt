@@ -1,0 +1,7 @@
+Unsichere Passwörter sind trotz Hackerangriffen nach wie vor sehr beliebt.
+Obwohl auch 2015 Daten- und Identitätsdiebstähle ständig Schlagzeilen machen, benutzen viele Internetnutzer weiterhin unsichere Passwörter.
+Das beliebteste Passwort der Welt sei nach wie vor «123456», teilte ein renommiertes Institut für Softwaresystemtechnik
+auf Grundlage einer Analyse gestohlener Datensätze mit.
+Gern verwendet würden auch andere Zeichenfolgen, die auf der Tastatur in einer Reihe liegen, sowie Vornamen und allgemein Begriffe 
+aus dem Wörterbuch. Auch «password» - englisch für Passwort - werde oft benutzt. Spezielle Computerprogramme können solche simplen 
+Kombinationen «blitzschnell ermitteln», warnte das Institut.
